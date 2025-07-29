@@ -1,1 +1,1 @@
-# Atmospheric Precipitation, Temperature, and Cloudiness AI Tracking (APTCAST)
+# Atmospheric Precipitation, Temperature, and Cloudiness forecAST (APTCAST)
